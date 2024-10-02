@@ -1,0 +1,18 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.department{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.navi{
+    height: 12vh;
+}
+.headings{
+    font-weight: bold;
+}
+.previous{
+    font-weight: bold;
+    color: blueviolet;
+}
